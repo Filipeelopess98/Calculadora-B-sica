@@ -10,14 +10,14 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #28a1a5;
+    background-color: #a3d0d1;
 }
 
 .calculator {
     width: 330px;
-    background-color: #6b6b6b;
+    background-color: #073d61;
     border-radius: 20px;
-    box-shadow: 2px 4px 4px #252525cb;
+    box-shadow: 2px 4px 4px #1e3335;
     overflow: hidden;
 }
 
@@ -25,10 +25,10 @@ body {
     height: 85px;
     padding: 20px;
     text-align: right;
-    color: #1ebea9;;
+    color: #174d8a;;
     font-size: 3.5rem;
-    font-weight: 600;
-    background-color: #ffffffe1;
+    font-weight: 500;
+    background-color: #6bdad0;
     
 }
 
@@ -61,17 +61,17 @@ body {
 }
 
 .button-gray {
-    background-color: #f1f1f1;
+    background-color: #1ebea9;
     border-radius: 25%;
-    color: #1ebea9;
+    color: #f1f1f1;
     font-size: 35px;
     
 }
 
 .button-light-gray {
-    background-color: #d1d1d1;
+    background-color: #f0efef;
     border-radius: 25%;
-    color: #1ebea9;;
+    color:  #025068;;
     font-size: 35px;
 }
 
