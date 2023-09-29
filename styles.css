@@ -15,7 +15,7 @@ body {
 
 .calculator {
     width: 330px;
-    background-color: #073d61;
+    background-color: #073d61d3;
     border-radius: 20px;
     box-shadow: 2px 4px 4px #1e3335;
     overflow: hidden;
@@ -25,7 +25,7 @@ body {
     height: 85px;
     padding: 20px;
     text-align: right;
-    color: #174d8a;;
+    color: #174d8ab7;;
     font-size: 3.5rem;
     font-weight: 500;
     background-color: #6bdad0;
@@ -71,7 +71,7 @@ body {
 .button-light-gray {
     background-color: #f0efef;
     border-radius: 25%;
-    color:  #025068;;
+    color: #1cbda2;
     font-size: 35px;
 }
 
